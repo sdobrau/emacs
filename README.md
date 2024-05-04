@@ -1,5 +1,5 @@
 ...
 
-My emacs setup which I will refactor and make more robust at some point soon in the future 
+My emacs setup. I will refactor and make it more robust at some point in the future.
 
 ...
