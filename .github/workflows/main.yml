@@ -1,0 +1,4 @@
+- name: Checkout emacs
+  uses: actions/checkout@v4.1.7
+  with:
+    repository: purcell/setup-emacs
